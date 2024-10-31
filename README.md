@@ -2,8 +2,8 @@
 - 👀 I’m interested in computer vision and AIGC.
 - 🌱 I’m currently learning deep learning and deep generative models.
 - 💞️ I’m looking to collaborate on Human-centric Generation.
-- 📫 Email: zhaoqin@pjlab.org.cn
 <!---
+- 📫 Email: zhaoqin@pjlab.org.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
