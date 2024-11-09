@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gorgeous2002.
+- 👋 Hi, I’m ZhaoQin.
 - 👀 I’m interested in computer vision and AIGC.
 - 🌱 I’m currently learning deep learning and deep generative models.
 - 💞️ I’m looking to collaborate on Human-centric Generation.
