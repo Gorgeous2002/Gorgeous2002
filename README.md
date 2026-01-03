@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ZhaoQin.
 - 👀 I’m interested in computer vision and AIGC.
 - 🌱 I’m currently working on Gen AI and Embodied AI.
-- 💞️ I’m looking to collaborate on Human-centric Generation.
 <!---
 - 📫 Email: zhaoqin@pjlab.org.cn
 - 😄 Pronouns: ...
